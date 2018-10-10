@@ -24,7 +24,7 @@ I used laser cutting to make the bopper. See below for images and links.
 
 **c. Upload code & a photo of your electronic circuit here.**
 
-<img src="circuit.JPG">
+<img src="img/circuit.JPG">
 
 I used the first piece of provided code to test the switch: [Link to code](scripts/switch-test/switch-test.ino)
 
@@ -64,4 +64,4 @@ For the attached part that pushes the switch, I cut both a round and square piec
 
 1. A video of your useless box in action.
 
-(Link to video)[https://www.youtube.com/watch?v=ovpZIHjSnVU]
+[Link to video](https://www.youtube.com/watch?v=ovpZIHjSnVU)
